@@ -1,7 +1,7 @@
 # Code for Submission: "Lightweight Tracking Control for Computationally Constrained Aerial Systems with Newton-Raphson Flow"
 Video footage for certain flights may be seen [here](https://youtu.be/H0mwDMPMdxQ)
 
-**Paper:** ["Lightweight Tracking Control for Computationally Constrained Aerial Systems with the Newton-Raphson Method"](https://arxiv.org/abs/2508.14185)\
+**Paper:** "Lightweight Tracking Control for Computationally Constrained Aerial Systems with the Newton-Raphson Method", [preprint available](https://arxiv.org/abs/2508.14185)\
 **Authors:** Evanns Morales-Cuadrado, Luke Baird, Yorai Wardi, Samuel Coogan\
 **Venue:** IEEE Transactions on Control Systems Technology (TCST), 2026
 

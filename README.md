@@ -4,6 +4,7 @@ Video footage for certain flights may be seen [here](https://youtu.be/H0mwDMPMdx
 # Environment Setup
 1. Users of this code must use the `/src/` folder here in a ROS2 workspace and build
 2. Users may also use the `environment.yml` file to set up a conda environment with the necessary packages to run the code below
+3. **Docker (in development):** A Docker-based workspace is available at [ws_px4_work](https://github.com/evannsm/ws_px4_work). Note that this is still under active development, but it aims to simplify the full PX4/ROS2 environment setup
 
 # Cloning This Repository
 This repository uses git submodules for the quadrotor packages. Clone with:
